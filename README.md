@@ -5,3 +5,4 @@
 Используется архитектура **MVP + Coordinator Pattern**.
 
 
+![Simulator Screen Shot - iPhone 13 Pro - 2022-06-29 at 10 21 55](https://user-images.githubusercontent.com/75904713/176377041-1bbca7f6-700a-4b39-b065-927e9df34aad.png)
