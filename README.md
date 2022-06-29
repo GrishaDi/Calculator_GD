@@ -5,11 +5,7 @@
 Используется архитектура **MVP + Coordinator Pattern**.
 
 <img src="https://user-images.githubusercontent.com/75904713/176380439-cd533ac3-ce54-4e87-9953-754b3b81da86.png" width="150">
+<img src="https://user-images.githubusercontent.com/75904713/176380473-d8bf5e5e-6058-4c22-8f9b-f3c41e8dbfa1.png" width="150">
 
-
-![Simulator Screen Shot - iPhone 13 Pro](https://user-images.githubusercontent.com/75904713/176377671-b06d3be4-1673-4b28-b6c2-06f072fea1d4.png)
-
-![Simulator Screen Shot - iPad Pro](https://user-images.githubusercontent.com/75904713/176377879-c3e02ad2-0095-473a-b7b4-8e3e7f75f353.png)
-![Simulator Screen Shot - iPad Pro](https://user-images.githubusercontent.com/75904713/176377943-de994e2f-6221-40ec-b1e0-a93cc75611b2.png)
-
-
+<img src="https://user-images.githubusercontent.com/75904713/176380506-d7d17c52-7fa8-44a7-85fc-000306ea4340.png" width="300">
+<img src="https://user-images.githubusercontent.com/75904713/176380533-a364c423-d22f-48d3-8bb6-de5c6f76d302.png" width="300">
